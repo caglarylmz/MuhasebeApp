@@ -1,0 +1,12 @@
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\bin\Debug\net6.0\Presentation.deps.json
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\bin\Debug\net6.0\Presentation.dll
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\bin\Debug\net6.0\Presentation.pdb
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\obj\Debug\net6.0\Presentation.csproj.AssemblyReference.cache
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\obj\Debug\net6.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfoInputs.cache
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\obj\Debug\net6.0\Presentation.AssemblyInfo.cs
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\obj\Debug\net6.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\obj\Debug\net6.0\Presentation.dll
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\obj\Debug\net6.0\refint\Presentation.dll
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\obj\Debug\net6.0\Presentation.pdb
+D:\Projects\net\MuhasebeApp\MuhasebeServer\src\external\Presentation\obj\Debug\net6.0\ref\Presentation.dll
